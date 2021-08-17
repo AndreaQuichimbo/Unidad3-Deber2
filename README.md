@@ -46,9 +46,9 @@ Ing. Darwin Omar Alulema Flores
 
 # Problemas Capitulo XV
 
-** 15-1 Introducción**
+**15-1 Introducción**
 
-1. ¿A que se reﬁere “voltaje de ca”y “corriente de ca”?
+1. ¿A que se reﬁere “voltaje de ca” y “corriente de ca”?
 
 3. a. ¿Qué signiﬁca valor instantáneo?
 
@@ -124,7 +124,7 @@ b. Im 40 A,T 10 ms
 
 33. Dada i 47 sen 8260t mA,determine la corriente cuando t 0 s,80,410 y 1200s.
 
-35.Escriba las ecuaciones para las formas de onda de la ﬁgura 15-82. Exprese lafase del ángulo en grados .
+35. Escriba las ecuaciones para las formas de onda de la ﬁgura 15-82. Exprese lafase del ángulo en grados .
 
 ![image](https://user-images.githubusercontent.com/84430867/128662759-15736489-03f7-41b5-9950-968b11a921d6.png)
 

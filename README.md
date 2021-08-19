@@ -38,7 +38,7 @@ Ing. Darwin Omar Alulema Flores
   
 Elementos R, L y C y elconcepto de impedancia
   
-![Números complejos](https://user-images.githubusercontent.com/84430867/130126964-897bcb7c-d720-4705-aec1-0779b1e399e3.png)
+![Números complejos](https://user-images.githubusercontent.com/84430867/130145221-ed8b7837-197f-4b10-9e8e-5fa3d67add9f.png)
 
 </div>
 

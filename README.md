@@ -30,16 +30,15 @@ Ing. Darwin Omar Alulema Flores
 
 # 2. MARCO TEORICO
 
+<div align="center">
+  
 **CAPITULO XV**
 
-<div align="center">
-  
-</div>
-
 **CAPITULO XVI**
-
-<div align="center">
   
+Elementos R, L y C y elconcepto de impedancia
+  
+
 </div>
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**

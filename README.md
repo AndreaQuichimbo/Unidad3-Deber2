@@ -40,6 +40,8 @@ Elementos R, L y C y elconcepto de impedancia
   
 ![Números complejos](https://user-images.githubusercontent.com/84430867/130160483-65b1f5fa-a610-42ba-ac40-d318ace06673.png)
 
+![Circuitos R , L y C con excitación sinusoidal](https://user-images.githubusercontent.com/84430867/130269453-7232bd66-7cb5-4532-90c3-8f73558881ab.png)
+
 </div>
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**

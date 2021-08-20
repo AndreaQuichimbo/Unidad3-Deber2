@@ -42,7 +42,7 @@ Elementos R, L y C y elconcepto de impedancia
 
 ![Circuitos R , L y C con excitación sinusoidal](https://user-images.githubusercontent.com/84430867/130270107-8c41175f-6243-4d5b-a551-ad9e0ec8745f.png)
 
-![Inductancia y ca sinusoidal](https://user-images.githubusercontent.com/84430867/130289033-660a9dd8-3f88-455a-a893-91dfa53c80ed.png)
+![Inductancia y ca sinusoidal](https://user-images.githubusercontent.com/84430867/130289164-de51b65e-0b7f-4927-ab78-2d5a5330265b.png)
 
 </div>
 

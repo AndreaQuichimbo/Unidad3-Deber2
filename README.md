@@ -44,6 +44,8 @@ Elementos R, L y C y elconcepto de impedancia
 
 ![Inductancia y ca sinusoidal](https://user-images.githubusercontent.com/84430867/130289164-de51b65e-0b7f-4927-ab78-2d5a5330265b.png)
 
+![Capacitancia y ca sinusoidal](https://user-images.githubusercontent.com/84430867/130303875-ffb4b59f-4b58-4cfb-834a-cb94f70755fd.png)
+
 </div>
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**

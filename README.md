@@ -289,3 +289,9 @@ c. T 120 s,v 10 V en t  12s
 # 6. BIBLIOGRAFÍAS
 
 Allan H. Robbins, W. C. (2008). Análisis de Circuitos: Teoría Y Práctica (Cuarta ed.). (2. Cengage Learning Latin America, Ed., & G. M. Hernández, Trad.)
+
+Illustrationprize. (s.f.). Obtenido de Diferencia entre el condensador y el inductor: https://illustrationprize.com/es/73-difference-between-capacitor-and-inductor.html#:~:text=El%20condensador%20almacena%20energ%C3%ADa%20en,en%20forma%20de%20campo%20magn%C3%A9tico.&text=El%20condensador%20act%C3%BAa%20como%20un,el%20circuito%20de%20corrie
+
+VARGAS MORELLI LUNA MARK, M. R. (s.f.). Usos y aplicaciones de capacitores e inductores en la ingeniería. Obtenido de https://www.sistemamid.com/panel/uploads/biblioteca/1/349/1259/6572/6589/77754.pdf
+
+

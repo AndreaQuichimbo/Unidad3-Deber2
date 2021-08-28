@@ -58,17 +58,29 @@ Elementos R, L y C y elconcepto de impedancia
 
 1. ¿A que se reﬁere “voltaje de ca” y “corriente de ca”?
 
-<div align="center">
+El voltaje corresponde al valor de tensión eléctrica, es decir a la "fuerza" con la que la fuente de energía mueve el circuito. Generalmente es un valor de 220V ó 110V (de acuerdo al país) cuando conectas a un equipo a un tomacorriente (enchufe) en un domicilio.
 
-</div>  
+La corriente es la velocidad de los electrones que van a circular por el cable y depende de la resistencia del circuito.
+
+Tiene que ver con el consumo de energía, ya que a mayor corriente, mayor será el consumo energético (un aire acondicionado consume unos 10A, mientras que una lámpara consume menos de 0,5A).
+
+La sigla CA significa corriente alterna y es la que se utiliza para generar, transportar y distribuir la energía (la CA está en cualquier tomacorriente del mundo); en oposición, la CC es la corriente continua y es aquella que puede almacenarse (la CC está en las pilas y baterías). 
 
 3. a. ¿Qué signiﬁca valor instantáneo?
 
+Es el valor que toma la onda para un tiempo t. Este valor no es útil para cálculos y medidas eléctricas, ya que se utilizan los valores eficaces.
+
+Se calcula a partir de la fórmula:      
+
 <div align="center">
   
+Vi = Vmax x sen (wt).
+
 </div>
 
-b. Para la ﬁgura 15-74,determine los voltajes instantáneos en t  0,1,2,3,4,5,6,7 y 8 ms.
+Donde wt es el ángulo en el que deseamos obtener el valor instantáneo.
+
+b. Para la ﬁgura 15-74, determine los voltajes instantáneos en t = 0,1,2,3,4,5,6,7 y 8 ms.
 
 <div align="center">
   

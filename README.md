@@ -88,7 +88,7 @@ b. Para la ﬁgura 15-74, determine los voltajes instantáneos en t = 0,1,2,3,4,
 
 </div>
 
-5. La fuente de la ﬁgura 15-76 tiene la forma de onda de la ﬁgura 15-74. Determine la corriente en t  0,1,2,3,4,5,6,7,y 8 ms. Incluya el signo.
+5. La fuente de la ﬁgura 15-76 tiene la forma de onda de la ﬁgura 15-74. Determine la corriente en t = 0,1,2,3,4,5,6,7,y 8 ms. Incluya el signo.
 
 <div align="center">
   

@@ -80,6 +80,12 @@ Vi = Vmax x sen (wt).
 
 Donde wt es el ángulo en el que deseamos obtener el valor instantáneo.
 
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/131234178-2aac3524-7eb5-4c2e-82e7-78a6ef223819.png)
+
+</div>
+
 b. Para la ﬁgura 15-74, determine los voltajes instantáneos en t = 0,1,2,3,4,5,6,7 y 8 ms.
 
 <div align="center">
@@ -87,6 +93,24 @@ b. Para la ﬁgura 15-74, determine los voltajes instantáneos en t = 0,1,2,3,4,
 ![image](https://user-images.githubusercontent.com/84430867/128660554-72eaf7a7-eb57-4d9b-afac-181386833066.png)
 
 </div>
+
+t = 0s => 0V
+
+t = 1s => 10V
+
+t = 2s => 20V
+
+t = 3s => 20V
+
+t = 4s => 20V
+
+t = 5s => 0V
+
+t = 6s => -20V
+
+t = 7s => -20V
+
+t = 8s => 0V
 
 5. La fuente de la ﬁgura 15-76 tiene la forma de onda de la ﬁgura 15-74. Determine la corriente en t = 0,1,2,3,4,5,6,7,y 8 ms. Incluya el signo.
 
@@ -100,19 +124,19 @@ b. Para la ﬁgura 15-74, determine los voltajes instantáneos en t = 0,1,2,3,4,
 
 7. Para cada uno de los siguientes,determine la frecuencia:
 
-a. T  0.5 s
+a. T = 0.5 s
 
 <div align="center">
   
 </div>
 
-b. T  100 s
+b. T = 100 s
 
 <div align="center">
   
 </div>
 
-c. 5T  80 s
+c. 5T = 80 s
 
 <div align="center">
  

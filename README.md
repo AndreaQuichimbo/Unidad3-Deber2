@@ -122,24 +122,114 @@ t = 8s => 0V
 
 </div>
 
-7. Para cada uno de los siguientes,determine la frecuencia:
+Para t = 0ms, el valor de e(t) es 0V por lo tanto, la corriente i(t) para  t = 0ms es dado por:
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131261529-e0374773-b5b3-4826-9acb-20b4d00f4348.png)
+
+</div>
+
+Para t = 1ms, el valor de e(t) es 10V por lo tanto, la corriente i(t) para  t = 1ms es dado por:
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131261582-f8e720d1-a698-4440-9446-f218a10bdc93.png)
+
+</div>
+
+Para t = 2ms, el valor de e(t) es 20V por lo tanto, la corriente i(t) para  t = 2ms es dado por:
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131261543-8f8335b7-5c67-44b9-9d24-df6091f1cfcc.png)
+
+</div>
+
+Para t = 3ms, el valor de e(t) es 20V por lo tanto, la corriente i(t) para  t = 3ms es dado por:
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131261549-4fad7d13-f191-4bd9-8d61-9d9a74b049ec.png)
+
+</div>
+
+Para t = 4ms, el valor de e(t) es 20V por lo tanto, la corriente i(t) para  t = 4ms es dado por:
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131261554-9a707129-d14e-4bb3-a1d0-83a817d00c62.png)
+
+</div>
+
+Para t = 5ms, el valor de e(t) es 0V por lo tanto, la corriente i(t) para  t = 55ms es dado por:
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131261522-3f606316-c6f6-480d-ad6c-5254ebd74d5b.png)
+
+</div>
+
+Para t = 6ms, el valor de e(t) es -20V por lo tanto, la corriente i(t) para  t = 6ms es dado por:
+
+<div align="center">
+ 
+![image](https://user-images.githubusercontent.com/84430867/131261514-d7b07818-eddc-4349-aad8-61e4a0a6d29c.png)
+
+</div>
+
+Para t = 7ms, el valor de e(t) es -20V por lo tanto, la corriente i(t) para  t = 7ms es dado por:
+
+<div align="center">
+ 
+![image](https://user-images.githubusercontent.com/84430867/131261510-4cabfbd5-231c-4eff-8cad-970064a02aa6.png)
+
+</div>
+
+Para t = 8ms, el valor de e(t) es 0V por lo tanto, la corriente i(t) para  t = 8ms es dado por:
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131261501-d4e83c05-10e3-41c8-8901-735809494299.png)
+
+</div>
+
+7. Para cada uno de los siguientes, determine la frecuencia:
 
 a. T = 0.5 s
 
+El período de tiempo está dado por:
+
 <div align="center">
   
+![image](https://user-images.githubusercontent.com/84430867/131264374-00f3efa3-8329-44e4-a7de-0d8c6f2f78d7.png)
+
 </div>
 
 b. T = 100 s
 
+El período de tiempo está dado por:
+
 <div align="center">
   
+![image](https://user-images.githubusercontent.com/84430867/131267228-67be47e0-5fe0-4a5a-a6df-ca91c126b285.png)
+
 </div>
 
-c. 5T = 80 s
+c. 5T = 80µs
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131267272-9dbc0a54-b84f-477a-bf45-37579bf92fa5.png)
+
+</div>
+
+El período de tiempo está dado por:
 
 <div align="center">
  
+![image](https://user-images.githubusercontent.com/84430867/131267286-a436e092-25af-41f3-98ec-0d3f3fd5c339.png)
+
 </div>
   
 9. Determine el periodo y la frecuencia de la forma de onda de la ﬁgura 15-77.
@@ -166,7 +256,7 @@ c. 5T = 80 s
   
 </div>
 
-15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1  0.25 T2 y f1  10 kHz,¿cuáles son los valores de T1, T2 y f2?
+15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1 = 0.25 T2 y f1 = 10 kHz,¿cuáles son los valores de T1, T2 y f2?
 
 <div align="center">
   

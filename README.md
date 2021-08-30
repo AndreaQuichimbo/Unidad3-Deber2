@@ -478,7 +478,7 @@ c. T 120 s,v 10 V en t  12s
 
 ![image](https://user-images.githubusercontent.com/84430867/128662774-c16e88fa-4498-4819-9174-7bf3f59284e4.png)
 
-![image](https://user-images.githubusercontent.com/84430867/128662797-1e573e18-9eb4-4628-a60d-85f7c781e026.png)
+![image](https://user-images.githubusercontent.com/84430867/131381253-23568a12-6458-4b1a-9b74-4208e4b9061e.png)
 
 </div>
 

@@ -293,7 +293,9 @@ La corriente pico a pico para la forma de onda está dado por:
 13. ¿A través de cuántos ciclos pasa en 2 minutos y 57 segundos una onda cuadrada con una frecuencia de 847 Hz?
 
 <div align="center">
-  
+
+![image](https://user-images.githubusercontent.com/84430867/131285532-71ade063-58fb-44d7-8f74-742e8f144bae.png)
+
 </div>
 
 15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1 = 0.25 T2 y f1 = 10 kHz,¿cuáles son los valores de T1, T2 y f2?

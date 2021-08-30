@@ -394,7 +394,7 @@ El valor de ∝ en radianes viene dado por:
 
 ![image](https://user-images.githubusercontent.com/84430867/131380953-96dcf84e-e112-4aa8-9861-7e95ed5aaa31.png)
 
-![image](https://user-images.githubusercontent.com/84430867/131381044-b4d15551-80cb-426b-a24d-6d80a1f76f08.png)
+![image](https://user-images.githubusercontent.com/84430867/131381159-06d9e30f-4637-41a0-a311-002cf8771344.png)
 
 </div>
 

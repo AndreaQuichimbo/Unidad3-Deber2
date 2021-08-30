@@ -514,36 +514,74 @@ a. Vm = 170 V, f = 60 Hz
 
 <div align="center">
  
-![image](https://user-images.githubusercontent.com/84430867/131411463-36664dcc-c9d2-4ed4-bcd8-b8d3892d54ff.png)
+![image](https://user-images.githubusercontent.com/84430867/131411960-ec067284-7ef9-4c37-ba8b-7df273c4ebc7.png)
 
 </div>
 
-b. Im = 40µA, T = 10ms
+b. Im = 40 µA, T = 10ms
 
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/84430867/131411573-a4543755-e80c-491e-8906-8204f2a9510a.png)
+![image](https://user-images.githubusercontent.com/84430867/131411922-27a1acd2-f044-4cb0-a2f7-662186841237.png)
 
 </div>
 
-c. T = 120µs,v = 10 V en t  12s
+c. T = 120 µs,v = 10 V en t = 12 µs
 
 <div align="center">
  
-![image](https://user-images.githubusercontent.com/84430867/131411659-9384d816-8a5f-49f1-9de4-2370bfa68dd4.png)
+![image](https://user-images.githubusercontent.com/84430867/131411813-7c544c2c-daf7-4b2c-b5d1-c2c6c90df392.png)
 
 </div>
 
-31. Una onda seno tiene un voltaje pico a pico de 40 V y T 50 ms. Determine su ecuación.
+31. Una onda seno tiene un voltaje pico a pico de 40 V y T = 50 ms. Determine su ecuación.
 
 <div align="center">
-  
+
+![image](https://user-images.githubusercontent.com/84430867/131413214-ed9f3e98-f603-4186-95c4-8c354cf28abf.png)
+
 </div>
 
-33. Dada i 47 sen 8260t mA,determine la corriente cuando t 0 s,80,410 y 1200s.
+33. Dada i = 47 sen 8260t mA, determine la corriente cuando t = 0s, 80, 410 y 1200µs.
+
+Ecuación dada
 
 <div align="center">
-  
+
+i = 47 sen (8260t) mA
+
+</div>
+
+La corriente para t = 0s, está dado por:
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131414079-9c573370-f26f-4d6a-9b91-0752d94ae489.png)
+
+</div>
+
+La corriente para t = 80µs, está dado por:
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131414128-d35b08f9-7955-437b-8cc9-dddf11e87a7f.png)
+
+</div>
+
+La corriente para t = 410µs, está dado por:
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131414162-d851cc49-0668-496c-9b2e-5f0d9694aa17.png)
+
+</div>
+
+La corriente para t = 1200µs, está dado por:
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131414199-66afe725-8685-488c-8c52-dd2a499e4235.png)
+
 </div>
 
 35. Escriba las ecuaciones para las formas de onda de la ﬁgura 15-82. Exprese lafase del ángulo en grados .

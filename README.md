@@ -590,9 +590,15 @@ La corriente para t = 1200µs, está dado por:
   
 ![image](https://user-images.githubusercontent.com/84430867/128662759-15736489-03f7-41b5-9950-968b11a921d6.png)
 
+![image](https://user-images.githubusercontent.com/84430867/131419162-0320eab0-b3b7-4302-a53a-9e5bca59c67d.png)
+
 ![image](https://user-images.githubusercontent.com/84430867/128662774-c16e88fa-4498-4819-9174-7bf3f59284e4.png)
 
-![image](https://user-images.githubusercontent.com/84430867/131381253-23568a12-6458-4b1a-9b74-4208e4b9061e.png)
+![image](https://user-images.githubusercontent.com/84430867/131419196-85393851-6340-46a3-b66b-b9f08508e9f3.png)
+
+![image](https://user-images.githubusercontent.com/84430867/131417895-15644b65-a08a-4b6a-b367-7561e1f4cf1b.png)
+
+![image](https://user-images.githubusercontent.com/84430867/131419224-85efaf86-1468-4f77-953b-cf8c61393f42.png)
 
 </div>
 

@@ -392,6 +392,10 @@ El valor de ∝ en radianes viene dado por:
   
 ![image](https://user-images.githubusercontent.com/84430867/128661623-35ff4449-b2a3-4078-9228-335ba4e8c898.png)
 
+![image](https://user-images.githubusercontent.com/84430867/131380953-96dcf84e-e112-4aa8-9861-7e95ed5aaa31.png)
+
+![image](https://user-images.githubusercontent.com/84430867/131381044-b4d15551-80cb-426b-a24d-6d80a1f76f08.png)
+
 </div>
 
 25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t 5s. Determine Vm y dibuje la forma de onda.

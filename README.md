@@ -240,13 +240,53 @@ El período de tiempo está dado por:
 
 </div>
   
+La forma de onda anterior se repite cada 7 ms, por lo que el período de la forma de onda es:
+
+<div align="center">
+  
+T=7ms
+  
+</div>
+
+La frecuencia de la onda está dado por:
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/131283816-dd7cac40-e6f7-4acd-896c-56e3ee1e2926.png)
+
+</div>
+
 11. ¿Cuál es el voltaje pico a pico para la ﬁgura 15-77? ¿Cuál es la corriente pico a pico de la ﬁgura 15-78?
 
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/128661140-7d331795-4880-43c2-b240-ccbae06f4561.png)
 
+El voltaje pico a pico para la forma de onda está dado por 
+
+</div>
+
+<div align="center">
+  
+9V – (-6V)
+
+15V
+
+</div>
+
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84430867/128661183-4e8d1fdd-6395-4e78-9be7-f588855395f3.png)
+  
+</div>
+
+La corriente pico a pico para la forma de onda está dado por:
+
+<div align="center">
+  
+3mA – (-3mA)
+
+6mA
 
 </div>
   
@@ -259,18 +299,24 @@ El período de tiempo está dado por:
 15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1 = 0.25 T2 y f1 = 10 kHz,¿cuáles son los valores de T1, T2 y f2?
 
 <div align="center">
-  
+
+![image](https://user-images.githubusercontent.com/84430867/131284100-1796c279-7e64-4aea-8bf3-3d2c2cb90165.png)
+
+![image](https://user-images.githubusercontent.com/84430867/131284203-3ed90143-35a6-4b7d-b990-f9536a434403.png)
+
 </div>
 
-** 15-5 Relaciones angular y gráﬁca paras las ondas seno**
+**15-5 Relaciones angular y gráﬁca paras las ondas seno**
 
-17. Dado el voltaje v Vm sen a. Si Vm  240 V,¿qué valor tiene v cuando a 37?
+17. Dado el voltaje v = Vm sen a. Si Vm = 240 V,¿qué valor tiene v cuando a = 37°?
 
 <div align="center">
-  
+ 
+![image](https://user-images.githubusercontent.com/84430867/131284392-da8080e2-2e36-4564-a7ab-eb2ce646b76e.png)
+
 </div>
 
-19. Un voltaje sinusoidal tiene un valor de 50 V cuando a 150. ¿Qué valor tiene Vm?
+19. Un voltaje sinusoidal tiene un valor de 50 V cuando a = 150. ¿Qué valor tiene Vm?
 
 <div align="center">
   

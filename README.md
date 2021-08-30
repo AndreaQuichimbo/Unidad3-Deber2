@@ -398,9 +398,21 @@ El valor de ∝ en radianes viene dado por:
 
 </div>
 
-25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t 5s. Determine Vm y dibuje la forma de onda.
+25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t = 5µs. Determine Vm y dibuje la forma de onda.
 
 <div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131396078-2523c2bd-7628-4698-a225-0ae25995ef64.png)
+
+</div>
+
+Al graficar una onda sinusoidal, los valores en cada intervalo de 45° son generalmente adecuados
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/131396195-e93ed47b-d340-4451-8a8e-06b79f88d7d0.png)
+
+![image](https://user-images.githubusercontent.com/84430867/131402319-10827016-788d-45cb-a92a-c99384953644.png)
 
 </div>
 
@@ -408,54 +420,118 @@ El valor de ∝ en radianes viene dado por:
 
 27. Calcule q en radianes por segundo para cada uno de los siguientes casos:
 
-a. T  100 ns                                
+a. T = 100 ns                                
+
+Período de tiempo dado
 
 <div align="center">
   
+T = 100 ns
+
 </div>
 
-b. f 30 Hz                                  
+El valor de ω está dado por:
+
+<div align="center">
+ 
+![image](https://user-images.githubusercontent.com/84430867/131405729-28af184a-de4a-4556-90c1-9a75c9fd22ac.png)
+
+</div>
+
+b. f = 30 Hz                                  
+
+Frecuencia dada
 
 <div align="center">
   
+f = 30 Hz
+
+</div>
+
+El valor de ω está dado por:
+
+<div align="center">
+ 
+![image](https://user-images.githubusercontent.com/84430867/131405842-c581036b-1f7b-4be3-829a-451d6c9c1e67.png)
+
 </div>
 
 c. 100 ciclos en 4 s
 
+Datos 
+
 <div align="center">
+
+100 ciclos en 4 s
   
 </div>
 
-d. Periodo  20 ms
+El número de ciclos en 1s está dado por:
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131406042-e0971c7f-53ad-497b-8ab3-95e5946b2969.png)
+  
+</div>
+
+d. Periodo = 20 ms
+
+Período de tiempo dado
 
 <div align="center">
   
+T = 20 ms
+
+</div>
+
+El valor de ω está dado por:
+
+<div align="center">
+ 
+![image](https://user-images.githubusercontent.com/84430867/131406147-61521256-9a14-4b05-aa5c-b8a32f0480df.png)
+
 </div>
 
 e. 5 periodos en 20 ms
 
 <div align="center">
-  
+
+![image](https://user-images.githubusercontent.com/84430867/131406179-66c485ee-6cb4-4d10-a4da-90515eafae90.png)
+
+</div>
+
+El valor de ω está dado por:
+
+<div align="center">
+ 
+![image](https://user-images.githubusercontent.com/84430867/131406254-78ce63eb-fa79-4a07-aad9-b0e7a19f5bd9.png)
+
 </div>
 
 29. Determine las ecuaciones para las ondas seno con lo siguiente:
 
-a. Vm  170 V, f 60 Hz   
+a. Vm = 170 V, f = 60 Hz   
 
 <div align="center">
-  
+ 
+![image](https://user-images.githubusercontent.com/84430867/131411463-36664dcc-c9d2-4ed4-bcd8-b8d3892d54ff.png)
+
 </div>
 
-b. Im 40 A,T 10 ms
+b. Im = 40µA, T = 10ms
 
 <div align="center">
   
+![image](https://user-images.githubusercontent.com/84430867/131411573-a4543755-e80c-491e-8906-8204f2a9510a.png)
+
 </div>
 
-c. T 120 s,v 10 V en t  12s
+c. T = 120µs,v = 10 V en t  12s
 
 <div align="center">
-  
+ 
+![image](https://user-images.githubusercontent.com/84430867/131411659-9384d816-8a5f-49f1-9de4-2370bfa68dd4.png)
+
 </div>
 
 31. Una onda seno tiene un voltaje pico a pico de 40 V y T 50 ms. Determine su ecuación.

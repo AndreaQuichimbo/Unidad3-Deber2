@@ -316,51 +316,77 @@ La corriente pico a pico para la forma de onda está dado por:
 
 </div>
 
-19. Un voltaje sinusoidal tiene un valor de 50 V cuando a = 150. ¿Qué valor tiene Vm?
+19. Un voltaje sinusoidal tiene un valor de 50 V cuando a = 150°. ¿Qué valor tiene Vm?
 
 <div align="center">
-  
+
+![image](https://user-images.githubusercontent.com/84430867/131286596-014adef0-b7bf-4fa9-a93c-c6443bfc95b6.png)
+
 </div>
 
 21. Convierta los siguientes ángulos de grados a radianes:
 
-a. 10                                          
+a. 10°                                         
 
-<div align="center">
-  
-</div>
-
-b. 25                                          
-
-<div align="center">
-  
-</div>
-
-c. 80                                          
-
-<div align="center">
-  
-</div>
-
-d. 150
-  
-<div align="center">
-
-</div>
-
-e. 350
-  
-<div align="center">
-  
-</div>
-
-f. 620
+El valor de ∝ en radianes viene dado por:
 
 <div align="center">
 
+![image](https://user-images.githubusercontent.com/84430867/131288385-29e9adfc-7cd7-4fa6-b618-a79487e97822.png)
+
 </div>
 
-23. Si el periodo de la forma de onda en la ﬁgura 15-80 es 180 ms,calcule la corriente en t 30,75,140 y 315 ms.
+b. 25°                                          
+
+El valor de ∝ en radianes viene dado por:
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/131288371-f9f42ce3-ad67-46fc-9f68-06c83c91b7ec.png)
+
+</div>
+
+c. 80°                                         
+
+El valor de ∝ en radianes viene dado por:
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131288344-0f402f12-0b64-4bb4-9364-46bfe19b361a.png)
+
+</div>
+
+d. 150°
+  
+El valor de ∝ en radianes viene dado por:
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131288315-49652ef3-0225-4a7d-9f71-44c728762caa.png)
+
+</div>
+
+e. 350°
+
+El valor de ∝ en radianes viene dado por:
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/131288294-2a869082-72eb-43aa-8172-a5673a68a478.png)
+
+</div>
+
+f. 620°
+
+El valor de ∝ en radianes viene dado por:
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/131288273-c40f037a-3484-4989-9c75-159f5dc1618d.png)
+
+</div>
+
+23. Si el periodo de la forma de onda en la ﬁgura 15-80 es 180 ms, calcule la corriente en t = 30, 75, 140 y 315 ms.
 
 <div align="center">
   
@@ -374,7 +400,7 @@ f. 620
 
 </div>
 
-** 15-6 Voltajes y corrientes como funciones del tiempo
+**15-6 Voltajes y corrientes como funciones del tiempo**
 
 27. Calcule q en radianes por segundo para cada uno de los siguientes casos:
 

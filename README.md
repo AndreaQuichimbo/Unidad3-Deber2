@@ -300,9 +300,7 @@ La corriente pico a pico para la forma de onda está dado por:
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84430867/131284203-3ed90143-35a6-4b7d-b990-f9536a434403.png)
-
-![image](https://user-images.githubusercontent.com/84430867/131284513-f9075136-8cae-4acb-96b7-52cc6fe930da.png)
+![image](https://user-images.githubusercontent.com/84430867/131284571-cfadcfd3-7d7d-4675-90c6-5d7402838a40.png)
 
 </div>
 

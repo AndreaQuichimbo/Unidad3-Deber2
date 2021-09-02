@@ -859,6 +859,8 @@ b. Exprese cada voltaje en forma del dominio del tiempo.
  
 # 4. VIDEO
 
+https://youtu.be/vtL0qTNl5Bw
+
 # 5. CONCLUSIONES
 
 # 6. BIBLIOGRAFÍAS

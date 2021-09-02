@@ -632,7 +632,9 @@ La corriente para t = 1200µs, está dado por:
 
 ![14](https://user-images.githubusercontent.com/84587172/131767320-57377e9b-d564-4185-a18e-376bc7cd89a7.png)
 
+![15](https://user-images.githubusercontent.com/84587172/131767348-044eaefa-dfc1-46c8-b235-ecdcbccf8673.png)
 
+![16](https://user-images.githubusercontent.com/84587172/131767352-a395bc49-9f95-4e98-81cb-694533c1aff6.png)
 
 # 4. VIDEO
 

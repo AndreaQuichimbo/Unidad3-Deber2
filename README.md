@@ -625,7 +625,6 @@ La corriente para t = 1200µs, está dado por:
 
 ![image](https://user-images.githubusercontent.com/84430867/131420087-d99db52f-0919-4520-8b82-387908c22f49.png)
 
-</div>
 
 ![1](https://user-images.githubusercontent.com/84587172/131766945-32d0dfca-6919-4cc8-9fcd-3a5a69b82be4.png)
 
@@ -647,7 +646,11 @@ La corriente para t = 1200µs, está dado por:
 
 ![10](https://user-images.githubusercontent.com/84587172/131767230-0efe1e8a-c8fe-44df-a18a-e03572353ca3.png)
 
+</div>
+
 # Problemas Capitulo XVI
+
+<div align="center">
 
 ![11](https://user-images.githubusercontent.com/84587172/131767312-5e1f07e3-54a4-411b-b5cc-08a474dc8d57.png)
 
@@ -666,6 +669,9 @@ La corriente para t = 1200µs, está dado por:
 ![18](https://user-images.githubusercontent.com/84587172/131767378-52e7ef7c-0724-4bec-a9bd-19353ae9535e.png)
 
 ![19](https://user-images.githubusercontent.com/84587172/131767403-130842d5-2d52-4fa9-b658-6aaaaad220d2.png)
+
+</div>
+
 
 7.Reduzca cada corriente siguiente a forma polar:
 
@@ -752,7 +758,9 @@ a) Determine los fasores I1, I2, I3 e IT
  
  </div>
  
- 19.Dos resistores R1= 10 kΩ y R2=12.5 kΩ están en serie. Si i=14.7sen(wt+39º)mA a. ¿Cuánto valen V_R1 y V_R2?
+ 19. Dos resistores R1= 10 kΩ y R2=12.5 kΩ están en serie. Si i=14.7sen(wt+39º)mA 
+ 
+ a. ¿Cuánto valen VR1 y VR2?
  
  <div align="center">
   
@@ -760,7 +768,7 @@ a) Determine los fasores I1, I2, I3 e IT
 
  </div>
  
-21.Para la figura 16-53, Vm = 10 V e Im = 5 A. Para cada expresión, determine la cantidad solicitada.
+21. Para la figura 16-53, Vm = 10 V e Im = 5 A. Para cada expresión, determine la cantidad solicitada.
 
  <div align="center">
 
@@ -772,7 +780,7 @@ a) Determine los fasores I1, I2, I3 e IT
 
  </div>
 
-23.Para la figura 16-53, e=100 sen(wt) y L=0.5 H. Determinar i_L a…
+23. Para la figura 16-53, e=100 sen(wt) y L=0.5 H. Determinar iL a
 
 <div align="center">
 
@@ -810,7 +818,7 @@ b. iL=250sen(wt+40°)uA, vL=40sen(wt+ø)V, y f=500 kHz, ¿cuál es el valor de L
   
 27. ¿Cuál es la reactancia de un capacitor de 5 uF a ...
 
-a.60 Hz    
+a. 60 Hz    
 
 <div align="center">
 
@@ -835,7 +843,9 @@ c. 500 rad/s
 </div>
 
 29. Para la figura 16-54, C=50 �uF. 
+
  a. vC=100 sen377t V, ¿cuánto vale iC? 
+ 
  b. iC=10sen(2pi×400t-60°), ¿cuánto vale vC?
 
 <div align="center">
@@ -855,7 +865,9 @@ c. 500 rad/s
 </div>  
 
 33. Si la corriente a través de cada elemento de circuito de la figura 16-56 es 0.5 A∠<0 
+
 a. Determine cada voltaje en forma fasorial. 
+
 b. Exprese cada voltaje en forma del dominio del tiempo.
 
 <div align="center">

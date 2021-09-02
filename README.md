@@ -28,6 +28,25 @@ Ing. Darwin Omar Alulema Flores
 
 # 1.OBJETIVOS
 
+Objetivos Generales
+
+- Identificar las capacidades de la corriente alterna y la función de los números complejos en la búsqueda de la resolución de circuitos conectados a una fuente de corriente de dirección variable.
+
+- Determinar las relaciones de fase entre formas de onda con fasores y calcular valores promedio para formas de onda que varían en el tiempo así mismo calcular valores efectivos(rms) para formas de onda que varían en el tiempo.
+
+- Determinar la impedancia para elementos de circuito R ,L y C y obtener  los voltajes y corrientes en circuitos simples de ca mediante el concepto de impedancia.
+
+Objetivos Específicos
+
+- Calcular el voltaje sinusoidal instantáneo o corriente en cualquier instante.
+
+- Explicar el concepto de impedancia.
+
+- Explicar cómo los voltajes y corrientes de ca diﬁeren de los de cd.
+
+- Explicar la polaridad del voltaje y las convenciones de dirección de la corriente que se usan para ca.
+
+- Expresar números complejos en formas rectangular y polar.
 # 2. MARCO TEORICO
 
 <div align="center">
@@ -39,10 +58,6 @@ Ing. Darwin Omar Alulema Flores
 ![image](https://user-images.githubusercontent.com/84587172/131869360-dc628f26-b92f-4183-b1b4-b39fbf486495.png)
   
 ![image](https://user-images.githubusercontent.com/84587172/131870732-1ddafec3-9e78-4aab-b780-f7300d816121.png)
-
-![image](https://user-images.githubusercontent.com/84587172/131879788-7e1d68f1-3013-4ffb-a161-64e46246e504.png)
-  
-![image](https://user-images.githubusercontent.com/84587172/131881929-6cf7b67a-44ce-4eea-9d31-c4107319c3b9.png)
   
 **CAPITULO XVI**
   

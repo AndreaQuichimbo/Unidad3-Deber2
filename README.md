@@ -656,8 +656,43 @@ La corriente para t = 1200µs, está dado por:
   
 </div>
 
+9. Determine el equivalente sinusoidal para cada una de las fuentes transforma-das de la ﬁgura 16-48.
 
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/131777427-43119dec-bd8a-4df2-a194-a2e19eb4ddec.png)
 
+![image](https://user-images.githubusercontent.com/84587293/131777470-d5e8eabe-76e0-49de-87bb-64b65d8d635b.png)
+
+ </div>
+ 
+ 11.Repita el problema 10 para v = e1 - e2.
+ 
+ <div align="center">
+  
+ ![image](https://user-images.githubusercontent.com/84587293/131777586-7f76a21b-44ad-4220-8350-b2b002d81895.png)
+
+  </div>
+  
+13. Para la figura 16-50, i=25 sen(wt+36)mA e i2 =40 cos(wt-10) mA.
+
+a) determine los fasores I1,I2,e IT
+
+b) determine la ecuación para iT en el dominio del tiempo
+
+ <div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/131777767-10eceb21-f5f2-4e45-973f-1b9752ece6d1.png)
+  
+![image](https://user-images.githubusercontent.com/84587293/131777866-c5d35ba8-3030-45e0-b4a3-36550b94463a.png)
+ 
+![image](https://user-images.githubusercontent.com/84587293/131777894-064691e0-292a-4893-86c5-a3e7a7792b19.png)
+
+ </div>
+ 
+ 
+ 
+  
 # 4. VIDEO
 
 # 5. CONCLUSIONES

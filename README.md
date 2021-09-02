@@ -691,8 +691,170 @@ b) determine la ecuación para iT en el dominio del tiempo
  </div>
  
  
+15. Para la figura 16-18, i1 = 7 sen wt mA, i2 =4 sen (wt - 90) mA e i3 = 6 sen (wt- 90) mA.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/131778089-0141d272-0dcd-4dce-bdb4-b4c1544a58d9.png)
+
+</div>
  
+a) Determine los fasores I1, I2, I3 e IT
+
+<div align="center">
+ 
+![image](https://user-images.githubusercontent.com/84587293/131778137-33a0a01f-0f4d-42d1-b6c6-d7f38946885c.png)
+
+ </div>
+ 
+ b) Determine la ecuación para iT en el dominio del tiempo
+ 
+ <div align="center">
   
+ ![image](https://user-images.githubusercontent.com/84587293/131778176-775476a5-e480-478f-89cd-d91437acb15b.png)
+ 
+  </div>
+ 
+ 17. Para la figura 16-52 , R= 12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje y grafíquelo.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/131778240-f4cd7303-c572-45de-8827-c4b03925e094.png)
+  
+![image](https://user-images.githubusercontent.com/84587293/131778317-3f08ea4f-c46b-4394-bb8e-4dbe1e7eb878.png)
+
+ ![image](https://user-images.githubusercontent.com/84587293/131778337-109a5edc-53be-4def-bf2b-ac4b69624a29.png)
+ 
+ </div>
+ 
+ 19.Dos resistores R1= 10 kΩ y R2=12.5 kΩ están en serie. Si i=14.7sen(wt+39º)mA a. ¿Cuánto valen V_R1 y V_R2?
+ 
+ <div align="center">
+  
+ ![image](https://user-images.githubusercontent.com/84587293/131778432-785aef08-bf22-4d6d-82c4-dce0cee6fef4.png)
+
+ </div>
+ 
+21.Para la figura 16-53, Vm = 10 V e Im = 5 A. Para cada expresión, determine la cantidad solicitada.
+
+ <div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/131778523-b9d20b70-aa7d-490c-9ae4-77b8f5b63560.png)
+
+![image](https://user-images.githubusercontent.com/84587293/131778541-15d16afd-5827-4691-88a2-745a1b819942.png)
+
+![image](https://user-images.githubusercontent.com/84587293/131778560-af0e55b1-112f-4482-aadd-d8516623a47e.png)
+
+ </div>
+
+23.Para la figura 16-53, e=100 sen(wt) y L=0.5 H. Determinar i_L a…
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/131778651-abe42d4d-45ea-4382-81ee-728243f97961.png)
+
+![image](https://user-images.githubusercontent.com/84587293/131778678-ba8d25cf-43a3-46ae-93c3-4b51280aa4ce.png)
+
+![image](https://user-images.githubusercontent.com/84587293/131778696-387bf6a5-781c-45e3-8745-08aa2fa75b00.png)
+  
+  </div>
+  
+25. Para la figura 16-53, si
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/131778779-a0dad753-4ef6-488e-a2a4-8585ed13ebd5.png)
+
+  </div>
+  
+a. vL=40sen(wt+30°)V, iL=364sen(wt-60°)mA y L=2 mH, ¿cuál es el valor de f?
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/131778809-0861d1f5-040f-4d19-896e-586a4324c0cb.png)
+  
+  </div>
+
+b. iL=250sen(wt+40°)uA, vL=40sen(wt+ø)V, y f=500 kHz, ¿cuál es el valor de L y v? 
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/131778848-7da3dd05-ce2a-4fc0-ad15-49662f8afc42.png)
+
+  </div>
+  
+27. ¿Cuál es la reactancia de un capacitor de 5 uF a ...
+
+a.60 Hz    
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/131779146-fecaca76-9cb6-413f-a4e6-d1c9e4ecfeca.png)
+  
+</div>
+
+b. 1000 Hz 
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/131779189-078c132d-88fd-49bb-92b7-bd07de00e023.png)
+  
+</div>
+
+c. 500 rad/s
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/131779252-74a5a2f1-0f4a-42c6-9b86-fa4b8d565352.png)
+  
+</div>
+
+29. Para la figura 16-54, C=50 �uF. 
+ a. vC=100 sen377t V, ¿cuánto vale iC? 
+ b. iC=10sen(2pi×400t-60°), ¿cuánto vale vC?
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/131779362-566f3559-c738-4f6f-aa90-edb3bf93258a.png)
+    
+</div>
+
+31. Determine la impedancia de cada elemento de circuito de la figura 16-55.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/131779491-60419b3c-0013-4892-8ce9-f98473662ae0.png)
+ 
+![image](https://user-images.githubusercontent.com/84587293/131779521-7ad7c616-5666-4786-a98d-5686b962391d.png)
+ 
+</div>  
+
+33. Si la corriente a través de cada elemento de circuito de la figura 16-56 es 0.5 A∠<0 
+a. Determine cada voltaje en forma fasorial. 
+b. Exprese cada voltaje en forma del dominio del tiempo.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/131779784-e5b72c1c-a216-4f71-add3-db3195ac296c.png)
+
+![image](https://user-images.githubusercontent.com/84587293/131779648-be559a77-cf61-43a3-b0ff-f13816a07d7b.png)
+
+![image](https://user-images.githubusercontent.com/84587293/131779672-46fba094-4c41-4d69-901d-410443fcbddc.png)
+
+</div>    
+  
+35.  Para cada circuito de la figura 16-57 determine la incógnita.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/131779844-86c13838-932b-4590-9273-d539881f938f.png)
+
+![image](https://user-images.githubusercontent.com/84587293/131779856-48d8956f-a203-4314-9865-678ce9d1a181.png)
+
+![image](https://user-images.githubusercontent.com/84587293/131779871-f8d5ca46-b151-45e3-a8f8-f54d632eb3d4.png)
+  
+ </div>
+ 
 # 4. VIDEO
 
 # 5. CONCLUSIONES

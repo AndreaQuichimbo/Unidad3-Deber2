@@ -673,7 +673,7 @@ La corriente para t = 1200µs, está dado por:
 </div>
 
 
-7.Reduzca cada corriente siguiente a forma polar:
+7. Reduzca cada corriente siguiente a forma polar:
 
 <div align="center">
 
@@ -697,7 +697,7 @@ La corriente para t = 1200µs, está dado por:
 
  </div>
  
- 11.Repita el problema 10 para v = e1 - e2.
+ 11. Repita el problema 10 para v = e1 - e2.
  
  <div align="center">
   
@@ -842,11 +842,11 @@ c. 500 rad/s
   
 </div>
 
-29. Para la figura 16-54, C=50 �uF. 
+29. Para la figura 16-54, C = 50 uF. 
 
- a. vC=100 sen377t V, ¿cuánto vale iC? 
+ a. vC = 100 sen377t V, ¿cuánto vale iC? 
  
- b. iC=10sen(2pi×400t-60°), ¿cuánto vale vC?
+ b. iC = 10sen(2pi×400t-60°), ¿cuánto vale vC?
 
 <div align="center">
   

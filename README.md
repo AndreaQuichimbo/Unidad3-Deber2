@@ -36,6 +36,8 @@ Ing. Darwin Omar Alulema Flores
 
 ![image](https://user-images.githubusercontent.com/84587172/131864204-da45c04f-8f59-42b1-b869-ebc35e2485b4.png)  
   
+![image](https://user-images.githubusercontent.com/84587172/131869067-b19e6771-744c-459c-a99a-c2febe05c963.png)
+    
 **CAPITULO XVI**
   
 Elementos R, L y C y elconcepto de impedancia

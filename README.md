@@ -887,7 +887,7 @@ https://youtu.be/vtL0qTNl5Bw
 # 5. CONCLUSIONES
 
 - Se logró definir y calcular periodo, amplitud, valores pico y valores pico pico , además de plasmar gráficamente su comportamiento atravez de un tiempo dado que existen ondas en fase o desfase y estas a su vez están adelantadas o retrasadas. 
-- 
+
 - En primer lugar enfocar los voltajes y corrientes de ca como fasores, los elementos de circuitos como impedancias y analizarlos en el dominio de fasores es mucho más practico que analizarlos en función del tiempo., se ha practicado sobre los conceptos de Frecuencia, periodo, amplitud y valor pico, además una introducción a los fasores, así mismo los elementos R, L y C y el concepto de impedancia.
 
 

@@ -642,6 +642,22 @@ La corriente para t = 1200µs, está dado por:
 
 ![19](https://user-images.githubusercontent.com/84587172/131767403-130842d5-2d52-4fa9-b658-6aaaaad220d2.png)
 
+7.Reduzca cada corriente siguiente a forma polar:
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/131777225-8847caa3-9c66-475c-805d-3a1f60b1fac6.png)
+
+![image](https://user-images.githubusercontent.com/84587293/131777255-d69eb863-7c5e-4b5c-b9dd-fedd3bfa24c5.png)
+
+![image](https://user-images.githubusercontent.com/84587293/131777304-38b43a75-6bdc-4303-8e9a-9d111fe8ce7b.png)
+
+![image](https://user-images.githubusercontent.com/84587293/131777334-03fb3c16-f6f0-43e8-9481-a9deea0175d3.png)
+  
+</div>
+
+
+
 # 4. VIDEO
 
 # 5. CONCLUSIONES
